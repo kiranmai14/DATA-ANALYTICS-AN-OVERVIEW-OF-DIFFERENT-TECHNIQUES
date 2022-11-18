@@ -7,7 +7,7 @@ link: Train data : https://drive.google.com/file/d/1Y71mPtZGsOrg8YeJW0yjF6aKGqca
 
 Output: Species to which penguin belongs.
 
-Files description:
+Files description: <br/>
 classifier.py - It will take paths of the data and performs the classification using knn, decision tree, random forest and provides the results in the files predicted_knn, predicted_dtc, predicted_rf. <br/>
 extras.ipynb : It contains all the code related to feauture engineering, error metrics calculation etc.
 
