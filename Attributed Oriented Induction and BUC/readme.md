@@ -1,6 +1,6 @@
 ## Attribute Oriented Induction: 
 Performed attributed oriented induction on housing-real-estate datset to extract the characteristic rules.
-These rules can be used for furthur analysis. For example to suggest an area to invest for investors focused on housing real estate.
+These rules can be used for further analysis. For example to suggest an area to invest for investors focused on housing real estate.
 
 Input: The dataset is the real dataset containing the data from Makaan.com. <br/>
 link: https://docs.google.com/spreadsheets/d/1ayvOE-HCIbYGTSYch86cohUZgoqwEDY5/edit?usp=share_link&ouid=104631806288798121832&rtpof=true&sd=true
