@@ -8,7 +8,7 @@ link: https://docs.google.com/spreadsheets/d/1ayvOE-HCIbYGTSYch86cohUZgoqwEDY5/e
 Output: Charactersistic rules describing the realtion between various attributes present in the dataset.
 
 ## Bottom up Cube: 
-Converted population-gdp income census data to datacube using BUC that can be used for further analysis in data ware house. 
+Converted population-gdp income census data to datacube using BUC that can be used for further analysis in data warehouse. 
 
 
 Input: It contains information about gdp-percaptia, population of different age groups and HDI of different countries.<br/>
